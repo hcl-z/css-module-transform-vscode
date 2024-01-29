@@ -686,10 +686,10 @@ cross-spawn@^7.0.0, cross-spawn@^7.0.2, cross-spawn@^7.0.3:
     shebang-command "^2.0.0"
     which "^2.0.1"
 
-css-module-transform@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/css-module-transform/-/css-module-transform-1.0.1.tgz#d9cd3834050c4c8235bf382726ab8135adb1e1c3"
-  integrity sha512-h3sU6OLlJFWNmzBdWE++Qi0Q0nWiEj2KDVWCYdh0DLVDg00l19ZJkXVYnD2jd9FCl5hUTU7Ie+7/0g+Lwbzqww==
+css-module-transform@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.npmjs.org/css-module-transform/-/css-module-transform-1.0.2.tgz#b7572103e03806b6225bc98e11ce46bc5ccdc414"
+  integrity sha512-Mh4Q03RZFNPXu1/v7aRXXvD0OE/wtgFwxABYAnGU0bqm0/hOFjPCiDFUxE55KlTp2/x2vFq1rB/30t5txK2NtA==
   dependencies:
     typescript "^5.3.2"
 
